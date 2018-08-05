@@ -9,4 +9,4 @@ More information about the tagger and the process can be found in the document t
 ### Information Extraction on Seminars
 Running infoExtraction_ass.py will perform information extraction on around 200 emails containing seminar information. It will tag structure points like paragraphs, sentences etc. but more importantly, tag important information about that seminar
 These files can be found in **info_extraction/done/**
-More information about the way in which the information was extracted can be found in the document titles **Information Extraction of Seminars*
+More information about the way in which the information was extracted can be found in the document titled **Information Extraction of Seminars**
