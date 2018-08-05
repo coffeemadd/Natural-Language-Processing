@@ -290,7 +290,7 @@ for i in onlyfiles:
         email = paragraphs(email)
         email = sentences(email)
 
-        file2 = open("done/" + i, "w")
+        file2 = open("info_extraction/done/" + i, "w")
         for j in email:
                 file2.write(j)
 
