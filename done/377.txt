@@ -1,0 +1,13 @@
+<0.20.9.92.14.34.24.trg+@N3.SP.CS.CMU.EDU (Thomas Gross).1>
+Type:     cmu.cs.scs
+Topic:    PSC/CS Seminar: additonal speakers
+Dates:    9-Oct-92
+Time:     <stime>4:00</stime> PM
+PostedBy: trg+ on 20-Sep-92 at 14:34 from N3.SP.CS.CMU.EDU (Thomas Gross)
+Abstract: 
+
+<paragraph><sentence>October 9       How Effective is Automatic Program Parallelization?</sentence></paragraph> 
+
+                <speaker>David A.</sentence><sentence>Padua</speaker>,   Center for Supercomputing Research and Development
+ 	        University of Illinois at Urbana-Champaign
+		<location><stime>4:00</stime> p.m., Wean Hall 5403</location>
